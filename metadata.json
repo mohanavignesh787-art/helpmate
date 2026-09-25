@@ -1,0 +1,10 @@
+{
+  "name": "HelpMate Hub",
+  "description": "Connect with people nearby to request help, provide help, complete tasks and earn securely.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
